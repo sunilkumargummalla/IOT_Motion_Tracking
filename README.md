@@ -39,10 +39,6 @@ Motion capture is the process of recording the movement of objects or people.  I
 ![functional](Img_Directory/functional_view.png)
 
 
-### Demo Presentation:
-
-[Real Time Motion Tracking Demo](https://clipchamp.com/watch/8qJoaAJeQp2)
-
 
 
 
