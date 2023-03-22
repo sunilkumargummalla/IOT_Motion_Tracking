@@ -3,7 +3,7 @@
 ### Author - Sunil Kumar Gummalla
 
 
-This Github page contains the tutorial and codebase of the project "Real time Motion tracking system". 
+This Github page contains the tutorial and codebase of the project "Motion tracking system". 
 
 ## Overview of Smart Building:
 A smart building is one that makes use of technology to provide residents with a safe and comfortable environment while enabling efficient and economical resource use. By connecting building operations through the Internet of Things (IoT), smart buildings make it easier to monitor building temperature, security, and maintenance via computers and mobile devices. A wide variety of current technologies may be used in smart buildings, which are also built or renovated to allow for the incorporation of emerging technology. Building management systems, artificial intelligence (AI), augmented reality, and Internet of Things (IoT) sensors are a few of the robotics and processes that can be utilized in a smart building to regulate and enhance its performance.
